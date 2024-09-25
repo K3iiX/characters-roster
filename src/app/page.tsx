@@ -14,39 +14,22 @@ export default function HomePage() {
   }, []);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-orange-500 to-blue-800 text-white">
+    <main className="flex min-h-screen flex-col items-center justify-center bg-black">
       <audio id="bg-music" autoPlay loop>
         <source src="/bgmusic.mp3" type="audio/mpeg" />
       </audio>
-      <div className="container flex flex-col items-center justify-center gap-12 px-4 py-16">
-        <h1 className="text-5xl font-extrabold tracking-tight text-white sm:text-[5rem]">
-          DBZ <span className="text-orange-500">Characters</span> Roster
-        </h1>
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:gap-8">
-          <Link
-            className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
-            href=""
-            target="_blank"
-          >
-            <h3 className="text-2xl font-bold">First Steps →</h3>
-            <div className="text-lg">
-              Just the basics - Everything you need to know to set up your
-              database and authentication.
-            </div>
-          </Link>
-          <Link
-            className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
-            href=""
-            target="_blank"
-          >
-            <h3 className="text-2xl font-bold">Documentation →</h3>
-            <div className="text-lg">
-              Learn more about Create T3 App, the libraries it uses, and how to
-              deploy it.
-            </div>
-          </Link>
+      <section className="w-full flex flex-col items-center">
+        <img src="/characterSelect.gif" alt="Description of GIF" className="my-4" />
+        <div className="w-1/2 flex justify-center">
+          <div className="grid grid-cols-4 grid-rows-8 py-6">
+            {Array.from({ length: 24 }, (_, index) => (
+              <div key={index} className="border aspect-square" style={{ width: '125px', height: '125px' }}>
+                <img src={`characters/image${index + 1}.png`} alt={`Image ${index + 1}`} className="w-full h-full object-cover" />
+              </div>
+            ))}
+          </div>
         </div>
-      </div>
+      </section>
     </main>
   );
 }
