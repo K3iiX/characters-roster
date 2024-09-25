@@ -21,9 +21,9 @@ export default function HomePage() {
       <section className="w-full flex flex-col items-center">
         <img src="/characterSelect.gif" alt="Description of GIF" className="my-4" />
         <div className="w-1/2 flex justify-center">
-          <div className="grid grid-cols-4 grid-rows-8 py-6">
+          <div className="grid grid-cols-4 grid-rows-8 py-6 cursor-pointer">
             {Array.from({ length: 24 }, (_, index) => (
-              <div key={index} className="border aspect-square" style={{ width: '125px', height: '125px' }}>
+              <div key={index} className="border aspect-square hover:border-4 hover:border-green-500" style={{ width: '125px', height: '125px' }}>
                 <img src={`characters/image${index + 1}.png`} alt={`Image ${index + 1}`} className="w-full h-full object-cover" />
               </div>
             ))}
