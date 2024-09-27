@@ -1,0 +1,124 @@
+{
+    "characters": [
+        {
+            "name": "Goku",
+            "thumbnail": "goku_thumb.png",
+            "image": "goku.png"
+        },
+        {
+            "name": "Vegeta",
+            "thumbnail": "vegeta_thumb.png",
+            "image": "vegeta.png"
+        },
+        {
+            "name": "Gohan",
+            "thumbnail": "gohan_thumb.png",
+            "image": "gohan.png"
+        },
+        {
+            "name": "Trunks",
+            "thumbnail": "trunks_thumb.png",
+            "image": "trunks.png"
+        },
+        {
+            "name": "Broly",
+            "thumbnail": "broly_thumb.png",
+            "image": "broly.png"
+        },
+        {
+            "name": "Gogeta SSJ4",
+            "thumbnail": "gogeta_ssj4_thumb.png",
+            "image": "gogeta_ssj4.png"
+        },
+        {
+            "name": "Vegito",
+            "thumbnail": "vegito_thumb.png",
+            "image": "vegito.png"
+        },
+        {
+            "name": "Bardock",
+            "thumbnail": "bardock_thumb.png",
+            "image": "bardock.png"
+        },
+        {
+            "name": "Zamasu",
+            "thumbnail": "zamasu_thumb.png",
+            "image": "zamasu.png"
+        },
+        {
+            "name": "Kid Buu",
+            "thumbnail": "kid_buu_thumb.png",
+            "image": "kid_buu.png"
+        },
+        {
+            "name": "Cell",
+            "thumbnail": "cell_thumb.png",
+            "image": "cell.png"
+        },
+        {
+            "name": "Frieza",
+            "thumbnail": "frieza_thumb.png",
+            "image": "frieza.png"
+        },
+        {
+            "name": "Baby Vegeta",
+            "thumbnail": "baby_vegeta_thumb.png",
+            "image": "baby_vegeta.png"
+        },
+        {
+            "name": "Janemba",
+            "thumbnail": "janemba_thumb.png",
+            "image": "janemba.png"
+        },
+        {
+            "name": "Jiren",
+            "thumbnail": "jiren_thumb.png",
+            "image": "jiren.png"
+        },
+        {
+            "name": "Hit",
+            "thumbnail": "hit_thumb.png",
+            "image": "hit.png"
+        },
+        {
+            "name": "Whis",
+            "thumbnail": "whis_thumb.png",
+            "image": "whis.png"
+        },
+        {
+            "name": "Beerus",
+            "thumbnail": "beerus_thumb.png",
+            "image": "beerus.png"
+        },
+        {
+            "name": "Android 17",
+            "thumbnail": "android_17_thumb.png",
+            "image": "android_17.png"
+        },
+        {
+            "name": "Android 18",
+            "thumbnail": "android_18_thumb.png",
+            "image": "android_18.png"
+        },
+        {
+            "name": "Bulma",
+            "thumbnail": "bulma_thumb.png",
+            "image": "bulma.png"
+        },
+        {
+            "name": "Pan",
+            "thumbnail": "pan_thumb.png",
+            "image": "pan.png"
+        },
+        {
+            "name": "Tapion",
+            "thumbnail": "tapion_thumb.png",
+            "image": "tapion.png"
+        },
+        {
+            "name": "Uub",
+            "thumbnail": "uub_thumb.png",
+            "image": "uub.png"
+        }
+    ]
+}
