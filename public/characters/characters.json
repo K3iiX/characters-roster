@@ -1,0 +1,124 @@
+{
+    "characters": [
+        {
+            "name": "Goku",
+            "thumbnail": "/characters/goku_thumb.png",
+            "image": "/characters/goku.png"
+        },
+        {
+            "name": "Vegeta",
+            "thumbnail": "/characters/vegeta_thumb.png",
+            "image": "/characters/vegeta.png"
+        },
+        {
+            "name": "Gohan",
+            "thumbnail": "/characters/gohan_thumb.png",
+            "image": "/characters/gohan.png"
+        },
+        {
+            "name": "Trunks",
+            "thumbnail": "/characters/trunks_thumb.png",
+            "image": "/characters/trunks.png"
+        },
+        {
+            "name": "Broly",
+            "thumbnail": "/characters/broly_thumb.png",
+            "image": "/characters/broly.png"
+        },
+        {
+            "name": "Gogeta SSJ4",
+            "thumbnail": "/characters/gogeta_ssj4_thumb.png",
+            "image": "/characters/gogeta_ssj4.png"
+        },
+        {
+            "name": "Vegito",
+            "thumbnail": "/characters/vegito_thumb.png",
+            "image": "/characters/vegito.png"
+        },
+        {
+            "name": "Bardock",
+            "thumbnail": "/characters/bardock_thumb.png",
+            "image": "/characters/bardock.png"
+        },
+        {
+            "name": "Zamasu",
+            "thumbnail": "/characters/zamasu_thumb.png",
+            "image": "/characters/zamasu.png"
+        },
+        {
+            "name": "Kid Buu",
+            "thumbnail": "/characters/kid_buu_thumb.png",
+            "image": "/characters/kid_buu.png"
+        },
+        {
+            "name": "Cell",
+            "thumbnail": "/characters/cell_thumb.png",
+            "image": "/characters/cell.png"
+        },
+        {
+            "name": "Frieza",
+            "thumbnail": "/characters/frieza_thumb.png",
+            "image": "/characters/frieza.png"
+        },
+        {
+            "name": "Baby Vegeta",
+            "thumbnail": "/characters/baby_vegeta_thumb.png",
+            "image": "/characters/baby_vegeta.png"
+        },
+        {
+            "name": "Janemba",
+            "thumbnail": "/characters/janemba_thumb.png",
+            "image": "/characters/janemba.png"
+        },
+        {
+            "name": "Jiren",
+            "thumbnail": "/characters/jiren_thumb.png",
+            "image": "/characters/jiren.png"
+        },
+        {
+            "name": "Hit",
+            "thumbnail": "/characters/hit_thumb.png",
+            "image": "/characters/hit.png"
+        },
+        {
+            "name": "Whis",
+            "thumbnail": "/characters/whis_thumb.png",
+            "image": "/characters/whis.png"
+        },
+        {
+            "name": "Bills",
+            "thumbnail": "/characters/bills_thumb.png",
+            "image": "/characters/bills.png"
+        },
+        {
+            "name": "Android 17",
+            "thumbnail": "/characters/android_17_thumb.png",
+            "image": "/characters/android_17.png"
+        },
+        {
+            "name": "Android 18",
+            "thumbnail": "/characters/android_18_thumb.png",
+            "image": "/characters/android_18.png"
+        },
+        {
+            "name": "Bulma",
+            "thumbnail": "/characters/bulma_thumb.png",
+            "image": "/characters/bulma.png"
+        },
+        {
+            "name": "Pan",
+            "thumbnail": "/characters/pan_thumb.png",
+            "image": "/characters/pan.png"
+        },
+        {
+            "name": "Tapion",
+            "thumbnail": "/characters/tapion_thumb.png",
+            "image": "/characters/tapion.png"
+        },
+        {
+            "name": "Uub",
+            "thumbnail": "/characters/uub_thumb.png",
+            "image": "/characters/uub.png"
+        }
+    ]
+}
