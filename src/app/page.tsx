@@ -45,13 +45,13 @@ export default function HomePage() {
       </audio>
       <section className="w-full flex flex-col items-center" 
                 style={{
-                backgroundImage: 'url(https://static.tumblr.com/4fbfffb7b18860788906c0ea0522d4f2/rzvusfp/GXWna7y65/tumblr_static_ckdagdn5uxkcwo4804c8co4c8_2048_v2.jpg)',
+                backgroundImage: 'url(https://res.cloudinary.com/drfhleop1/image/upload/v1727562291/luxa.org-opacity-changed-luxa.org-opacity-changed-tumblr_static_ckdagdn5uxkcwo4804c8co4c8_2048_v2_gf81m4.jpg)',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center'}}>
         <div className="w-1/2 flex justify-between">
           
           {/* LEFT GRIDS */}
-          <div className="text-white text-2xl flex flex-col items-center bg-black">
+          <div className="text-white text-2xl flex flex-col items-center">
             {selectedImageIndex !== null && images[selectedImageIndex] && ( // Check if an image is selected
               <>
                 <img
@@ -67,7 +67,7 @@ export default function HomePage() {
           </div>
 
           {/* RIGHTGRIDS */}
-          <div className="w-1/2 flex flex-col items-center justify-center bg-black">
+          <div className="w-1/2 flex flex-col items-center justify-center">
             <div className="grid grid-cols-4 grid-rows-8 py-6 cursor-pointer justify-center">
               {thumbnails.length > 0 && thumbnails.map((thumbnail, index) => ( // Check if thumbnails is not empty
                 <div
