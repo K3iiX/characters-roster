@@ -61,7 +61,6 @@ export default function HomePage() {
                   className="mt-2"
                   style={{ width: '500px', height: '500px' }} // Set fixed size for all images
                 />
-                <p className="mt-2">{`Description for Image ${selectedImageIndex + 1}`}</p>
               </>
             )}
           </div>
