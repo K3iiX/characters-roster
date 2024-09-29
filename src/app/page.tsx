@@ -58,8 +58,9 @@ export default function HomePage() {
                   key={selectedImageIndex}
                   src={images[selectedImageIndex]} // Use the selected image
                   alt={`Left Image ${selectedImageIndex + 1}`}
-                  className="mt-2"
-                  style={{ width: '500px', height: '500px' }} // Set fixed size for all images
+                  className="mt-2 fade-in" // Add fade-in class
+                  style={{ width: '500px', height: '500px', opacity: 0, transition: 'opacity 0.5s ease-in' }} // ANIMATION
+                  onLoad={(e) => { (e.target as HTMLImageElement).style.opacity = '1'; }} // ANIMATION X2
                 />
               </>
             )}
