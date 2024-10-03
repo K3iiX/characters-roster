@@ -119,6 +119,26 @@
             "name": "Uub",
             "thumbnail": "/characters/uub_thumb.png",
             "image": "/characters/uub.png"
+        },
+        {
+            "name": "Penitent",
+            "thumbnail": "/characters/penitent_thumb.png",
+            "image": "/characters/penitent.png"
+        },
+        {
+            "name": "Kratos",
+            "thumbnail": "/characters/kratos_thumb.png",
+            "image": "/characters/kratos.png"
+        },
+        {
+            "name": "Sora",
+            "thumbnail": "/characters/sora_thumb.png",
+            "image": "/characters/sora.png"
+        },
+        {
+            "name": "Kuromi ",
+            "thumbnail": "/characters/kuromi_thumb.png",
+            "image": "/characters/kuromi.png"
         }
     ]
 }

@@ -66,7 +66,7 @@ export default function HomePage() {
             )}
           </div>
 
-          {/* RIGHTGRIDS */}
+          {/* CENTER GRIDS */}
           <div className="w-1/2 flex flex-col items-center justify-center">
             <div className="grid grid-cols-4 grid-rows-8 py-6 cursor-pointer justify-center">
               {thumbnails.length > 0 && thumbnails.map((thumbnail, index) => ( // Check if thumbnails is not empty
